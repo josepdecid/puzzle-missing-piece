@@ -20,8 +20,8 @@ The second picture (`puzzle_photo`) is a photo of the real puzzle which has one 
     <td>Puzzle Photo</td>      
   </tr>
   <tr>
-    <td><img src="resources/city/model.jpg" width="500" height="500"></td>
-    <td><img src="resources/city/puzzle.jpg" width="500" height="500"></td>
+    <td><img src="resources/city/model.jpg" width="300" height="200"></td>
+    <td><img src="resources/city/puzzle.jpg" width="300" height="200"></td>
   </tr>
  </table>
 
@@ -35,14 +35,14 @@ we get a frontal view of the puzzle of the same size for both model and puzzle i
     <td>Warped photo</td>
   </tr>
   <tr>
-    <td><img src="resources/city/model_points.jpg" width="500" height="500"></td>
+    <td><img src="resources/city/model_points.jpg" width="300" height="200"></td>
     <td>&#8594;</td>
-    <td><img src="resources/city/model_warped.jpg" width="500" height="500"></td>
+    <td><img src="resources/city/model_warped.jpg" width="200" height="300"></td>
   </tr>
   <tr>
-    <td><img src="resources/city/puzzle_points.jpg" width="500" height="500"></td>
+    <td><img src="resources/city/puzzle_points.jpg" width="300" height="200"></td>
     <td>&#8594;</td>
-    <td><img src="resources/city/puzzle_warped.jpg" width="500" height="500"></td>
+    <td><img src="resources/city/puzzle_warped.jpg" width="300" height="200"></td>
   </tr>
  </table>
 
