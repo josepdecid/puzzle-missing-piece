@@ -37,7 +37,7 @@ we get a frontal view of the puzzle of the same size for both model and puzzle i
   <tr>
     <td><img src="resources/city/model_points.jpg" width="300" height="200"></td>
     <td>&#8594;</td>
-    <td><img src="resources/city/model_warped.jpg" width="200" height="300"></td>
+    <td><img src="resources/city/model_warped.jpg" width="300" height="200"></td>
   </tr>
   <tr>
     <td><img src="resources/city/puzzle_points.jpg" width="300" height="200"></td>
