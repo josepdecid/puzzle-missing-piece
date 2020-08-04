@@ -84,6 +84,12 @@ shape and colors, accessing them from the warped reference photo, and storing th
   </tr>
 </table>
 
+## TODO: Features coming soon
+
+- Automatic projective transformation for image alignment, without having to specify the coordinates of the vertices.
+- Automatic piece detection without having to draw the overlaying mask.
+- Web client to perform this task without having to download and install the project locally.
+
 ## But... why?
 
 ![BrentRamboDrakeMeme](docs/brent_rambo.png)   
