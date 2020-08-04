@@ -71,6 +71,15 @@ we get a frontal view of the puzzle of the same size for both reference and puzz
 By applying a new channel mask to the puzzle image, we index and extract the remaining pixels that define the piece
 shape and colors, accessing them from the warped reference photo, and storing the obtained piece into a new image file.
 
+<table>
+  <tr>
+    <td>Resulting Piece</td>
+  </tr>
+  <tr>
+    <td><img src="resources/city/piece.png"></td>
+  </tr>
+</table>
+
 ## But... why?
 
 ![BrentRamboDrakeMeme](docs/brent_rambo.png)   
