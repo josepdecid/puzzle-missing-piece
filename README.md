@@ -74,9 +74,13 @@ shape and colors, accessing them from the warped reference photo, and storing th
 <table>
   <tr>
     <td>Resulting Piece</td>
+    <td>That fits in...</td>
+    <td>Creating...</td>
   </tr>
   <tr>
     <td><img src="resources/city/piece.png"></td>
+    <td><img src="resources/city/piece_background.jpg"></td>
+    <td><img src="resources/city/piece_fit.jpg"></td>
   </tr>
 </table>
 
